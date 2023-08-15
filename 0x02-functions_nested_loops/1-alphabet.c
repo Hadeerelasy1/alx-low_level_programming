@@ -13,5 +13,4 @@ void print_alphabet(void)
 		n++;
 	} while (n != 123);
 	_putchar('\n');
-	return (0);
 }
