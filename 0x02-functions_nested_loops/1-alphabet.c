@@ -9,9 +9,9 @@ int main(void)
 	char n = 'a';
 
 	do {
-		putchar(n);
+		_putchar(n);
 		n++;
 	} while (n != 123);
-	printf("\n");
+	_putchar('\n');
 	return (0);
 }
